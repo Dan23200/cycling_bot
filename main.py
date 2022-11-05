@@ -5,7 +5,7 @@ import telebot
 # from database_bot import data
 import sqlite3
 
-bot = telebot.TeleBot("5580320258:AAEYAMH3Gg_XZApHEi4hOgzk7uNqmszUDX8")
+bot = telebot.TeleBot("**********************************")
 
 lists_with_buttons = ['Передача в дюймах 🚴', 'Отзыв о боте 🤖‍', 'Создатель бота🧑‍💻']
 
